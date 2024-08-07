@@ -1,4 +1,6 @@
-![test](https://github.com/acro5piano/react-native-big-calendar/workflows/test/badge.svg)
+THIS IS A DRAFT FORK - DONT USE THIS
+
+<!-- ![test](https://github.com/acro5piano/react-native-big-calendar/workflows/test/badge.svg)
 ![release](https://github.com/acro5piano/react-native-big-calendar/workflows/release/badge.svg)
 [![npm version](https://badge.fury.io/js/react-native-big-calendar.svg)](https://badge.fury.io/js/react-native-big-calendar)
 
@@ -513,4 +515,4 @@ I'm a freelance software engineer specialized in React, React Native and TypeScr
 
 If you are interested in hiring me, please send an email to: ketsume0211@gmail.com
 
-I'm based in Japan (by the beautiful sea), so a remote contract job is especially welcome.
+I'm based in Japan (by the beautiful sea), so a remote contract job is especially welcome. -->
