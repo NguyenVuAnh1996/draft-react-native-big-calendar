@@ -16,7 +16,7 @@ export default {
     {
       file: 'build/index.js',
       format: 'cjs',
-      name: 'react-native-big-calendar',
+      name: 'draft-react-native-big-calendar',
       sourcemap: true,
     },
     {
